@@ -10,6 +10,4 @@ best,
 
 -Javier
 
-ps. I have attached the necessary installs to have the project running. 
-
-pip install pdf2docx openai python-docx pypandoc
+ps. I have attached the necessary installs to have the project running in the requirements.txt file. 
